@@ -6,7 +6,7 @@
 
 - 💻 I am a accounting sciences and Mathematics major and currently studying statistics! 🐺
 - 🌱 I’m currently learning about various Linux distros 🐧
-- 📫 How to reach me: harris@bubalo.us or wandrys.sousa@protonmail.com ⚛️
+- 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
 
 ## Languages and Tools I Use
