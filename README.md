@@ -1,5 +1,5 @@
-<a href="https://github.com/Wandrys-dev/Wandrys-dev/tree/master">
-    <img width="100%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/master/vaporwave2.gif">
+<a href="https://github.com/Wandrys-dev/Wandrys-dev">
+    <img width="100%" src="https://github.com/Wandrys-dev/Wandrys-dev//edit/main/vaporwave2.gif">
 </a>
 
 # Hello World, I'm Wandrys!
