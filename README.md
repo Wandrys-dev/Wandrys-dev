@@ -7,17 +7,15 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🎓 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics & Communication Engineering at Arya College of Engineering & IT, Jaipur(Rajasthan Technical University).
-- 💼 &nbsp; Passionate Pro_grammer, Java Developer, problem solving Skills and a Competitive Pro_grammer.
+- 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
-- ✍️ &nbsp; Participation on Different Levels / National Level Hackathons, MHRD Innovation Cell Projects, etc.
-
-
-- 💻 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
-- 🌱 I’m currently learning about various Linux distros 🐧
+- ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
 - 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
+
+
 
 ## Languages and Tools I Use
 
