@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/Wandrys Nascimento/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amresh%20Mallick-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/Wandrys Nascimento/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Wandrys Nascimento%20Mallick-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/matematico_do_planalto_central/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 </p>
