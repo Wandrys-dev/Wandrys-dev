@@ -2,7 +2,8 @@
     <img width="100%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/vaporwave.gif">
 </a>
 
-# Hello World, I'm Wandrys!
+<h2>Hello World, I'm Wandrys!</h2>
+
 
 - 💻 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
 - 🌱 I’m currently learning about various Linux distros 🐧
