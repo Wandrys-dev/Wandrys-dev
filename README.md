@@ -21,6 +21,8 @@
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![MATLAB](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab)
+  ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
   ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
   ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
   ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
