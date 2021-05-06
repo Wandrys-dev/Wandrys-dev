@@ -4,7 +4,7 @@
 
 # Hello World, I'm Wandrys!
 
-- 💻 I am a accounting sciences and Mathematics major and currently studying statistics! 🐺
+- 💻 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
 - 🌱 I’m currently learning about various Linux distros 🐧
 - 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
