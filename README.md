@@ -4,6 +4,10 @@
 
 <h2>Hello World, I'm Wandrys!</h2>
 
+<p align="center">
+  <img width="460" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MATLABWP.png">
+</p>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
