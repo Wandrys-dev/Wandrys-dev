@@ -20,7 +20,7 @@
 
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![MATLAB](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab)
+  ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
   ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
   ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
