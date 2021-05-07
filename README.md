@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="460" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MWG.png">
+  <img width="460" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MWG.gif">
 </p>
 
 
