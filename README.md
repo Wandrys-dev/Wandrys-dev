@@ -68,7 +68,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/DeWandrys"><img alt="twitter" src="https://img.shields.io/badge/twitter-Wandrys Nascimento%20-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/matematico_do_planalto_central/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
