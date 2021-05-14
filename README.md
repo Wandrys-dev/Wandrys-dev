@@ -16,6 +16,8 @@
 |:--:| :--: |:--: |
 | *No control* | *Swing-Up without Stabilization* |  *Swing-Up with Stabilization* |
 
+<!-- About me image -->
+<img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
