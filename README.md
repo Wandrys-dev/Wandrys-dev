@@ -20,6 +20,8 @@
 <img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+
 - 🎓 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
@@ -27,6 +29,7 @@
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
 - 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
