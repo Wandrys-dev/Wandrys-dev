@@ -29,6 +29,7 @@
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
 
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
