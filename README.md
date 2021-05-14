@@ -102,6 +102,12 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+-->
+
+
+
 
 <p align="center"> 
   Visitors :<br>
