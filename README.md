@@ -17,6 +17,9 @@
 </p>
 
 
+| <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MATLABWP.png" width="300"  /></a> | <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MWG.gif" width="300"  /></a> |
+
+
 | <a href="https://asciinema.org/a/375762" target="_blank"><img src="no_control.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375763" target="_blank"><img src="no_control_swingup.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375764" target="_blank"><img src="controlled.svg" width="300" title="click to watch" /></a> |
 |:--:| :--: |:--: |
 | *No control* | *Swing-Up without Stabilization* |  *Swing-Up with Stabilization* |
