@@ -90,12 +90,6 @@
 - <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder**
 - <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
 - <img align="left" alt="Atom" width="22px" src="https://simpleicons.org/icons/atom.svg" />  **Atom**
-<img align="left" alt="Jupyter Notebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" />
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="MATLAB" width="22px" src="https://simpleicons.org/icons/mathworks.svg" />
-<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" />
-<img align="left" alt="Racket" width="22px" src="https://simpleicons.org/icons/racket.svg" />
-<img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
-<img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg" />
+- <img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg"/>  **R**
+- <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
+- <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
