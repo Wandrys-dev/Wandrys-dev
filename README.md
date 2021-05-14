@@ -100,3 +100,10 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - <img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg"/>  **R**
 - <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
+
+
+
+<p align="center"> 
+  Visitors (From 08/06/2020):<br>
+  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
+</p>
