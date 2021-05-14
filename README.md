@@ -104,6 +104,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 <p align="center"> 
-  Visitors (From 08/06/2020):<br>
+  Visitors :<br>
   <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
 </p>
