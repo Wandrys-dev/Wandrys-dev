@@ -102,9 +102,16 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
--->
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&show_icons=true&theme=algolia" alt="Wandrys-dev" />
+ <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&langs_count=8&theme=algolia"/>
+<!--![](https://komarev.com/ghpvc/?username=Wandrys-dev)-->
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
+
+
 
 
 
