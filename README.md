@@ -87,6 +87,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 ## Languages and Tools I Use
+- <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
 - <img align="left" alt="MATLAB" width="22px" src="https://simpleicons.org/icons/mathworks.svg" />  **MATLAB**
 - <img align="left" alt="Octave" width="22px" src="https://simpleicons.org/icons/octave.svg" /> **Octave**
 - <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />  **Python**
