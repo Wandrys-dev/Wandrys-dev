@@ -96,7 +96,8 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
 - <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />  **HTML**
 - <img align="left" alt="HTML" width="22px" src="https://logo.letskhabar.com//img/?tool=css" />  **CSS**
-- <img align="left" alt="MySQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **MySQL**
+- <img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" />  **MySQL**
+- <img align="left" alt="SQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **SQL**
 - <img align="left" alt="PostgreSql" width="22px" src="https://img.icons8.com/color/2x/postgreesql.png" />  **PostgreSql**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
