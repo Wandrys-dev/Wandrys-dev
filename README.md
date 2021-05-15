@@ -11,10 +11,13 @@
 </p>
 
 
+ <a target="_blank"><img src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif" width="150"  /></a>  <a target="_blank"><img src=https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300"  /></a>
+
 
 | <a href="https://asciinema.org/a/375762" target="_blank"><img src="no_control.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375763" target="_blank"><img src="no_control_swingup.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375764" target="_blank"><img src="controlled.svg" width="300" title="click to watch" /></a> |
 |:--:| :--: |:--: |
 | *No control* | *Swing-Up without Stabilization* |  *Swing-Up with Stabilization* |
+
 
 <!-- About me image -->
 <img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
