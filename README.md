@@ -99,8 +99,8 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - <img align="left" alt="MySQL" width="22px" src="https://simpleicons.org/icons/mysql.svg" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
-- <img align="left" alt="Git" width="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" /> **Git**
-- <img align="left" alt="GitHub" width="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" /> **GitHub**
+- <img align="left" alt="Git" width="22px" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" /> **Git**
+- <img align="left" alt="GitHub" width="22px" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" /> **GitHub**
 - <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder**
 - <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
 - <img align="left" alt="Atom" width="22px" src="https://simpleicons.org/icons/atom.svg" />  **Atom**
