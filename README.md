@@ -98,8 +98,8 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - <img align="left" alt="HTML" width="22px" src="https://logo.letskhabar.com//img/?tool=css" />  **CSS**
 - <img align="left" alt="MySQL" width="22px" src="https://simpleicons.org/icons/mysql.svg" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
-- <img align="left" alt="Google olab" width="22px" src="https://simpleicons.org/icons/googlecolab.svg" /> **Google Colab**
-- <img align="left" alt="GitHub" width="https://logo.letskhabar.com/img/?tool=git" alt="git" /> **Git**
+- <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
+- <img align="left" alt="Git" width="https://logo.letskhabar.com/img/?tool=git" alt="git" /> **Git**
 - <img align="left" alt="GitHub" width="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 - <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder**
 - <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
