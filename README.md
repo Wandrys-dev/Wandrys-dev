@@ -25,7 +25,7 @@
 <!-- About me image -->
 <img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
 - 🎓 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
