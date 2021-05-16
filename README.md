@@ -42,7 +42,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 
-<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
+<img align="right" width="400" alt="JPG" src="https://blog.cloudlayer.io/content/images/2020/12/34504695.jpg"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -90,7 +90,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 
-
+<img align="right" width="400" alt="GIF" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/coding-freak.gif"/>
 
 ## Languages and Tools I Use
 
