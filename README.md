@@ -126,10 +126,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
     </td>
     <td width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&langs_count=8&theme=algolia">
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wandrys-dev&amp;langs_count=8&amp;theme=algolia">
-    </td>
   </tr>
 </table>
 
