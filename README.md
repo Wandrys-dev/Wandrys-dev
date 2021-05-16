@@ -135,11 +135,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&show_icons=true&theme=algolia" alt="Wandrys-dev" />
- <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&langs_count=8&theme=algolia"/>
-
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
 
 
