@@ -133,6 +133,29 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <br/>
 
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class ComputerEngineer:
+    def __init__(self):
+        self.name    = "Wandrys Nascimento"
+        self.role    = "Data Scientist"
+        self.contact = "wandrys.sousa@protonmail.com"
+        self.work    = "Data Scientist, Software, Network Systems, Web Developer"
+        self.learn   = "Image Processing and Game Programming"
+    
+    def getCity():
+        return Brasilia_Brazil()
+
+me = DataScientist()
+```
+
+
+
+
+
+
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
