@@ -79,6 +79,8 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 <br/>
 
+<img align="right" width="150" height="150" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
