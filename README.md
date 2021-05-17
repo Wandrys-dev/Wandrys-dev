@@ -94,9 +94,9 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 
-<img align="right" width="300" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
+<img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
 
-<img align="right" width="100" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
+<img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
 
 ## Languages and Tools I Use
 
