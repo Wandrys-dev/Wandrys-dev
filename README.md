@@ -96,6 +96,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 <img align="right" width="500" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
 
+
 ## Languages and Tools I Use
 
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
