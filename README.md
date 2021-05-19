@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif">
+</p>
+
+
 <a href="https://github.com/Wandrys-dev/Wandrys-dev">
     <img width="100%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/vaporwave.gif">
 </a>
