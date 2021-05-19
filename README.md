@@ -84,7 +84,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 <img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="center">
 <a href="https://twitter.com/DeWandrys"><img alt="twitter"  src="https://logo.letskhabar.com/img/?tool=twitter" alt="Twitter profile" height="30" width="40" /></a>
