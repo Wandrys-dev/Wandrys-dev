@@ -50,6 +50,9 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
+  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
   ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
   ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
