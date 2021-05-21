@@ -6,9 +6,6 @@
 <h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif">
-</p>
 
 
  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MWG.gif" width="150"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MATLABWP.png" width="300"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//giphy.gif" width="300"  /></a> 
