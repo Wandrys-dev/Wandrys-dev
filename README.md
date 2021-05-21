@@ -185,7 +185,6 @@ me = DataScientist()
 
 
 
-
 <p align="center">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/34504695.jpg">
+  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/eesa.gif">
 </p>
