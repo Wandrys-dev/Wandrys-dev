@@ -127,6 +127,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 ## 📈 My GitHub Stats 
+![](https://allhacked.com/up/2019/03/hello-world.gif)
 
 <table width="100%"> 
   <tr>
