@@ -5,7 +5,7 @@
 
 <h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-![](https://allhacked.com/up/2019/03/hello-world.gif)
+
 
 
  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MWG.gif" width="150"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MATLABWP.png" width="300"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//giphy.gif" width="300"  /></a> 
