@@ -177,9 +177,6 @@ me = DataScientist()
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
 
 
-## Week Stats
-![Languages](https://wakatime.com/share/@Wandrys/58f046fe-b4e6-4852-bb12-a5828ac08031.svg)
-
 
 <p align="center"> 
   Visitors :<br>
