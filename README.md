@@ -178,7 +178,7 @@ me = DataScientist()
 
 
 ## Week Stats
-![Languages](https://wakatime.com/share/@anangkur/58f046fe-b4e6-4852-bb12-a5828ac08031.svg)
+![Languages](https://wakatime.com/share/@Wandrys-dev/58f046fe-b4e6-4852-bb12-a5828ac08031.svg)
 
 
 <p align="center"> 
