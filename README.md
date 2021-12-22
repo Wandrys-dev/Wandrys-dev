@@ -90,7 +90,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="center">
-<a href="https://twitter.com/DeWandrys"><img alt="twitter"  src="https://logo.letskhabar.com/img/?tool=twitter" alt="Twitter profile" height="30" width="40" /></a>
+<a href="https://twitter.com/Wandrys_"><img alt="twitter"  src="https://logo.letskhabar.com/img/?tool=twitter" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/matematico_do_planalto_central/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
