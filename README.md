@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Wandrys-dev/Wandrys-dev">
-    <img width="300" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//coder.gif">
+    <img width="500" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//coder.gif">
 </a>
 
 
