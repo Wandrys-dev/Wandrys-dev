@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Wandrys-dev/Wandrys-dev">
-    <img width="100%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//coder.gif">
+    <img width="50%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//coder.gif">
 </a>
 
 <h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
