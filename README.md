@@ -137,6 +137,17 @@ Like My Work?
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">
 
 
+<div align=center>
+          <img alt="gif" align="center" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width=300 height=300/>
+    </div>
+
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Wandrys+Nascimento+%F0%9F%91%8B;Computer+Science;Passionate+Data+Scientist;Matlab,+R,+Python,+Sql+and+Julia+programming+language+Enthusiast" alt="Headline" />
+    </div>
+
+
+
+
 
 ### 🏆 Trophies
 
