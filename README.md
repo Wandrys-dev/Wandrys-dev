@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Wandrys-dev/Wandrys-dev">
-    <img width="10%" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif">
+    <img width="40%" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif">
 </a>
 
 
