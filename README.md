@@ -98,10 +98,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
 
 
-<img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
-
-
-
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="center">
@@ -112,7 +108,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 ⭐️ From [Wandrys-dev](https://github.com/Wandrys-dev)
 
-
+<img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
 
 
 ## 📈 My GitHub Stats 
