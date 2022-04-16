@@ -55,7 +55,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 
-
+<img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
