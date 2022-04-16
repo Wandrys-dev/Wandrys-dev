@@ -108,7 +108,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 ⭐️ From [Wandrys-dev](https://github.com/Wandrys-dev)
 
-<img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
 
 
 ## 📈 My GitHub Stats 
