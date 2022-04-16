@@ -44,7 +44,9 @@
 
 I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
 
-Like My Work?
+
+
+## Like My Work? : <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
 
 <a href="https://www.buymeacoffee.com/Wandrys" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
@@ -105,8 +107,8 @@ Like My Work?
 
 
 
-## Languages and Tools I Use 🌎: <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
 
+## Languages and Tools I Use
 
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="Octave" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
