@@ -1,7 +1,8 @@
 
 <a href="https://github.com/Wandrys-dev/Wandrys-dev">
-    <img width="75%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//logo2.svg">
+    <img width="75%" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif">
 </a>
+
 
 
 <h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
@@ -98,8 +99,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
 
 
-
-<img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
