@@ -104,11 +104,9 @@ Like My Work?
 
 
 
-<img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
 
-<img align="right" width="100" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
+## Languages and Tools I Use 🌎: <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
 
-## Languages and Tools I Use
 
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="Octave" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
