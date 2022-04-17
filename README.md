@@ -1,5 +1,5 @@
 
-<a target="_blank"><img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="360px"  /></a>  <a target="_blank"><img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif" width="450px"  /></a> 
+<a target="_blank"><img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="360px"  /></a>  <a target="_blank"><img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif" width="442px"  /></a> 
 
 
 <h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
