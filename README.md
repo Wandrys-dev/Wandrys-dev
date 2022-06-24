@@ -118,8 +118,8 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys.sousa@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Wandrys-dev](https://github.com/Wandrys-dev)
-
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandrys-nascimento-021aa093/) 
 
 
 ## 📈 My GitHub Stats <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
