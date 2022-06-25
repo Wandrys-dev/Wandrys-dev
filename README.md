@@ -118,9 +118,8 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys.sousa@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<div class="header" align="center">
-  <!--  gif goes here  -->
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
 
 
 ## 🌐 Connect with me:
