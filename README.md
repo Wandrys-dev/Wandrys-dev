@@ -1,15 +1,5 @@
 
-<p align="center">
-  <img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif"
-    width="270" 
-    height="270">
-  <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
-</p>
-<p align="center">
-   <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/C.gif">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
-</p>
-
+![Card Name](https://cardivo.vercel.app/api?name=Wandrys%20Nascimento&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Data%20Science%20&site=%F0%9F%8E%93%20Statistics%20and%20Mathematics&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
 
 
 <h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
