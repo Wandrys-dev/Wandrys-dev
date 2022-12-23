@@ -103,7 +103,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 ## Social
 
 <p align="center">
-<a href="https://twitter.com/Wandrys_"><img alt="twitter"  src="https://img.shields.io/badge/Wandrys_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/matematico_do_planalto_central/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys.sousa@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
