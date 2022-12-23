@@ -202,7 +202,7 @@ me = DataScientist()
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
+
 
 
 
