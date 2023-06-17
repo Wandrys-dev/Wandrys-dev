@@ -103,7 +103,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 ## Social
 
 <p align="center">
-<a href="https://www.instagram.com/wandrysns/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Wandrys-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/wandrysns"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Wandrys-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys.sousa@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
