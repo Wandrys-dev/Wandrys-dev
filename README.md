@@ -31,6 +31,7 @@
 
 
 - 🎓 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
+- ✍️ I'm a writer for the Medium channel: https://medium.com/@wandrys.sousa
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
