@@ -141,12 +141,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 [![trophy](https://github-profile-trophy.vercel.app/?username=Wandrys-dev)](https://github.com/Wandrys-dev/github-profile-trophy)</details>
 <details><summary><b>GitHub Profile Activity Summary</b></summary>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wandrys-dev&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wandrys-dev&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wandrys-dev&theme=default)
-</details>
-<details open><summary><b>GitHub Metrics</b></summary><img src="github-metrics.svg"/></details>
-<details><summary><b>Code::Stats Readme</b></summary>
+
 
 
 ![Overview](https://raw.githubusercontent.com/Wandrys-dev/github-stats/master/generated/overview.svg)
