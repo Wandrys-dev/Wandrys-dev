@@ -134,6 +134,33 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
     </div>
 
 
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)</details>
+<details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="lulunac27a's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
+<details open><summary><b>GitHub Trophy Stats</b></summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wandrys-dev)](https://github.com/Wandrys-dev/github-profile-trophy)</details>
+<details><summary><b>GitHub Profile Activity Summary</b></summary>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wandrys-dev&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wandrys-dev&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wandrys-dev&theme=default)
+</details>
+<details open><summary><b>GitHub Metrics</b></summary><img src="github-metrics.svg"/></details>
+<details><summary><b>Code::Stats Readme</b></summary>
+
+
+![Overview](https://raw.githubusercontent.com/Wandrys-dev/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/Wandrys-dev/github-stats/master/generated/languages.svg)
+![Detailed Overview](https://raw.githubusercontent.com/Wandrys-dev/Stats/actions_branch/generated_images/overview.svg)</details>
+<details><summary><b>Developer Power Meter Stats</b></summary>
+
+![Wandrys-dev github-stats](https://stats.dooboo.io/api/github-stats?login=Wandrys-dev)
+![Wandrys-dev github-trophies](https://stats.dooboo.io/api/github-trophies?login=Wandrys-dev)</details>
+<details><summary><b>GitHub Readme Streak Stats</b></summary>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wandrys-dev)](https://git.io/streak-stats)
+
 
 ### 🏆 Trophies
 
