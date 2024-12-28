@@ -144,11 +144,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 
-![Overview](https://raw.githubusercontent.com/Wandrys-dev/github-stats/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/Wandrys-dev/github-stats/master/generated/languages.svg)
-![Detailed Overview](https://raw.githubusercontent.com/Wandrys-dev/Stats/actions_branch/generated_images/overview.svg)</details>
-<details><summary><b>Developer Power Meter Stats</b></summary>
-
 ![Wandrys-dev github-stats](https://stats.dooboo.io/api/github-stats?login=Wandrys-dev)
 ![Wandrys-dev github-trophies](https://stats.dooboo.io/api/github-trophies?login=Wandrys-dev)</details>
 <details><summary><b>GitHub Readme Streak Stats</b></summary>
